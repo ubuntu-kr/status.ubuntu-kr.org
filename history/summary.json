@@ -4,17 +4,17 @@
     "url": "https://discourse.ubuntu-kr.org",
     "icon": "https://icons.duckduckgo.com/ip3/discourse.ubuntu-kr.org.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 959,
-    "timeWeek": 1003,
-    "timeMonth": 1001,
-    "timeYear": 976,
+    "time": 975,
+    "timeDay": 903,
+    "timeWeek": 984,
+    "timeMonth": 996,
+    "timeYear": 975,
     "dailyMinutesDown": {}
   }
 ]
